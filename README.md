@@ -1,6 +1,6 @@
 # emojivote
 
-Propose reading group papers on `slack`. Formatted _with style_.
+Propose reading group papers on _slack_. Formatted _with style_.
 
 
 ## Installation
@@ -60,3 +60,7 @@ This should output (emoji selection is random):
 
 
 2. Paste the above into Slack and use `Ctrl+Shift+F` to Format them message.
+
+## Acknowledgements
+
+Idea inspired and slack format created by [Kate McCurdy](https://kmccurdy.github.io/)
